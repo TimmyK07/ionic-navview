@@ -11,6 +11,10 @@ This simple Ionic app shows how to use ion-nav-view with templates and states.
 
 4. Add a back button to move back through the states.
 
+5. Separate the templates into separate files.
+
+6. Separate the JavaScript code into separate files.
+
 ## Notes
 
 - You can include templates in index.html itself using a script of type "text/ng-template". They should go in your body tag.
